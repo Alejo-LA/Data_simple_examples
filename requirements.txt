@@ -12,3 +12,6 @@ tables==3.6.1
 
 ## Special libraries for sparse matrices
 sparse-dot-topn==0.2.9
+
+## Others
+tqdm==4.48.2
