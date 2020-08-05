@@ -1,4 +1,4 @@
-## Common dataSciences Python libraries
+## Common DS Python libraries
 pandas==1.0.5
 numpy==1.19.0
 scipy==1.5.1
@@ -9,3 +9,6 @@ scikit-learn==0.23.1
 # Formats
 h5py==2.10.0
 tables==3.6.1
+
+## Special libraries for sparse matrices
+sparse-dot-topn==0.2.9
